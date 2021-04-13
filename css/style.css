@@ -378,6 +378,12 @@ li i {
   [class*="col-"] {
     width: 100%;
   }
+  
+  label,
+  input,
+  select {
+    font-size: .8rem;
+  }
 }
 @media only screen and (max-width: 1000px) {
   .h-images {
